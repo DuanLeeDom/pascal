@@ -1,0 +1,12 @@
+program nyProgram;
+var x,y,result:real;
+begin
+writeln(' Enter number x' ) ;
+readln(x);
+writeln(' Enter number y' ) ;
+readln(y);
+result := x + y;
+writeln('The result is ' ,result:4:2);
+readln;
+end.
+
