@@ -1,5 +1,5 @@
-#APRENDENDO TURBO PASCAL
-## Aqui vou colocar codigos em pascal e meu aprendizados usando 
+##APRENDENDO TURBO PASCAL
+### Aqui vou colocar codigos em pascal e meu aprendizados usando 
 estou seguindo as aulas de um russo que ensina também.
 
 canal dele: [radovan858](https://www.youtube.com/@radovan858).
