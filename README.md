@@ -1,4 +1,4 @@
-##APRENDENDO TURBO PASCAL
+## APRENDENDO TURBO PASCAL
 ## Aqui vou colocar codigos em pascal e meu aprendizados usando 
 estou seguindo as aulas de um russo que ensina também.
 
