@@ -8,6 +8,6 @@ Estou seguindo as aulas de um desenvolvedor russo que ensina de maneira bastante
 
 - **Canal do instrutor**: [Radovan858](https://www.youtube.com/@radovan858)
 - **Playlist do curso**: [Turbo Pascal Programming Full Course](https://www.youtube.com/watch?v=w9x3uLmOd94&list=PLA8k58F_ubbzuil6yVCsYmJITNZ5GKbP8)
-- **Curso complementar em português**: [Curso de Pascal - MSXALL](https://marmsx.msxall.com/cursos/pascal/pascal.html)
+- **Curso complementar em português**: [Curso de Pascal - MSXALL](https://marmsx.msxall.com/cursos/pascal/index.php)
 
 Se você estiver interessado em aprender Turbo Pascal ou revisitar essa linguagem, recomendo fortemente os recursos acima!
