@@ -1,11 +1,13 @@
-## APRENDENDO TURBO PASCAL
-## Aqui vou colocar codigos em pascal e meus aprendizados usando a linguagem.
+# Aprendendo Turbo Pascal
 
+Este repositório contém códigos e anotações sobre meu aprendizado de Turbo Pascal. Aqui, você encontrará exemplos práticos, exercícios e conceitos que estou explorando enquanto aprendo essa linguagem clássica de programação.
 
-estou seguindo as aulas de um russo que ensina também.
-canal dele: [radovan858](https://www.youtube.com/@radovan858).
-playlist: [Turbo Pascal Programming Full Course](https://www.youtube.com/watch?v=w9x3uLmOd94&list=PLA8k58F_ubbzuil6yVCsYmJITNZ5GKbP8).
+Estou seguindo as aulas de um desenvolvedor russo que ensina de maneira bastante clara e didática, o que tem me ajudado muito a aprimorar minhas habilidades em Pascal.
 
-https://marmsx.msxall.com/cursos/pascal/pascal.html
+## Recursos de Aprendizado
 
-continuação: https://www.youtube.com/watch?v=QZ9zgYLSnIY&list=PLA8k58F_ubbzuil6yVCsYmJITNZ5GKbP8&index=13
+- **Canal do instrutor**: [Radovan858](https://www.youtube.com/@radovan858)
+- **Playlist do curso**: [Turbo Pascal Programming Full Course](https://www.youtube.com/watch?v=w9x3uLmOd94&list=PLA8k58F_ubbzuil6yVCsYmJITNZ5GKbP8)
+- **Curso complementar em português**: [Curso de Pascal - MSXALL](https://marmsx.msxall.com/cursos/pascal/pascal.html)
+
+Se você estiver interessado em aprender Turbo Pascal ou revisitar essa linguagem, recomendo fortemente os recursos acima!
