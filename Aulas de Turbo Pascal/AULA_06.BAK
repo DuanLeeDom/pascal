@@ -1,7 +1,0 @@
-program myProgram;
-var x,y,z:integer;
-begin
-x := 6;
-write('x = ',x);
-readln;
-end.
